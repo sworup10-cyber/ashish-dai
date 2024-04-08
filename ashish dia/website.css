@@ -1,0 +1,310 @@
+.head {
+  background-color: rgb(218, 118, 61);
+  color: white;
+  text-align: center;
+  padding: 30px;
+  font-weight: bold;
+  font-size: 40px;
+  margin-top: -9px;
+  min-width: 1079px;
+  display: block;
+  margin-left: -8px;
+  max-width: none;
+}
+
+.top {
+  justify-content: center;
+}
+
+.dashboard {
+  height: 370px;
+  background-color: #e0e0e0;
+  width: 370px;
+  color: black;
+  margin-top: 5%;
+  border-color: gray;
+  border-radius: 30px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-width: 10px;
+  display: flex;
+  margin-left: 37%;
+}
+
+.company {
+  padding-left: 140px;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 35px;
+}
+
+.email {
+  height: 30px;
+  width: 300px;
+  margin-top: 100px;
+  margin-left: -210px;
+  padding-left: 0px;
+
+}
+
+.password {
+  height: 30px;
+  width: 170px;
+  margin-left: -305px;
+  margin-top: 150px;
+  padding-right: 130px;
+}
+
+.button {
+  background-color: rgb(218, 118, 61);
+  color: white;
+  margin-top: 205px;
+  margin-left: -290px;
+  height: 30px;
+  width: 270px;
+  cursor: pointer;
+  border-radius: 20px;
+  border-width: 0px;
+}
+
+.or {
+  margin-top: 250px;
+  font-weight: bold;
+  font-size: 19px;
+  margin-left: -170px;
+}
+
+.create-account {
+  margin-top: 295px;
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: -130px;
+}
+
+.signup {
+  margin-top: 295px;
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 5px;
+  color: rgb(218, 118, 61);
+  ;
+}
+
+.image {
+  margin-top: -10px;
+  margin-left: -10px;
+}
+
+.image-one {
+  width: 50%;
+  height: 800px;
+}
+
+.sign-one {
+  margin-left: 70%;
+  margin-top: -560px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.user {
+  margin-left: 65%;
+  margin-top: 1%;
+  width: 17%;
+  padding-bottom: 10px;
+
+}
+
+.email-one {
+  margin-left: 65%;
+  margin-top: 1%;
+  width: 17%;
+  padding-bottom: 10px;
+}
+
+.password-one {
+  margin-left: 65%;
+  margin-top: 1%;
+  width: 17%;
+  padding-bottom: 10px;
+}
+
+.sign-in {
+
+  background-color: rgb(218, 118, 61);
+  color: white;
+  margin-left: 65%;
+  margin-top: 1%;
+  padding: 10px 120px;
+  /* Adjust padding to center text vertically and horizontally */
+  cursor: pointer;
+  border-radius: 20px;
+  border-width: 0px;
+  text-align: center;
+  display: inline-block;
+  /* Ensures button width adjusts to content */
+
+}
+
+.invoice {
+  margin-left: 2%;
+  margin-top: 3%;
+  color: rgb(218, 118, 61);
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.date-page {
+  margin-left: 2%;
+  padding: 10px;
+  padding-left: 40px;
+
+}
+
+.customer-name {
+  margin-left: 2%;
+  padding: 10px;
+  padding-left: 40px;
+
+}
+
+.option {
+  margin-left: 2%;
+  padding: 10px;
+  padding-left: 40px;
+}
+
+.amount {
+  margin-left: 2%;
+  padding: 10px;
+  padding-left: 40px;
+}
+
+.add {
+  color: white;
+  background-color: rgb(218, 118, 61);
+  border-style: none;
+  border-radius: 20px;
+  margin-left: 2%;
+  padding: 13px 50px;
+  margin-top: 1%;
+  cursor: pointer;
+}
+
+.search {
+  margin-left: 10%;
+  padding: 5px 30px;
+}
+
+.image-two {
+  height: 20px;
+  width: 40px;
+  mix-blend-mode: color-burn;
+}
+
+.table {
+  width: 80%;
+  margin: 50px auto;
+  border-collapse: collapse;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+th,
+td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #f2f2f2;
+}
+
+.submit {
+  color: white;
+  background-color: rgb(218, 118, 61);
+  border-style: none;
+  border-radius: 20px;
+  margin-left: 81%;
+  padding: 13px 50px;
+  margin-top: 1%;
+  cursor: pointer;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: rgb(218, 118, 61);
+  /* Main theme color */
+}
+
+.summary {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.summary-item {
+  flex: 1;
+  text-align: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.total {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  text-align: left;
+}
+
+table td {
+  text-align: center;
+}
+
+table tfoot td {
+  font-weight: bold;
+}
